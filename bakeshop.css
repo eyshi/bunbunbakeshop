@@ -1,0 +1,148 @@
+#home-bg {
+    background-image:url("cinnamonrolls.png");
+    background-size:cover;
+    background-size: 1400px 788px;
+    background-repeat:no-repeat;
+    margin:0;
+}
+
+#ourstory-bg {
+    background-image:url("ourstory@3x.png");
+    background-size:cover;
+    background-size: 1400px 930px;
+    background-repeat:no-repeat;
+    margin:0;
+}
+
+.topnav {
+    overflow:hidden;
+    background-color:black;
+    width:1366px;
+    padding-bottom:10px;
+    padding:50px 16px;
+    text-align:center;
+}
+
+#menu {
+    text-align:right;
+}
+
+#menu a {
+    float:right;
+    display:block;
+    color:white;
+    text-align:center;
+    padding:50px 16px;
+    text-decoration:none;
+    font-size:24px;
+    font-family:'Libre Baskerville', serif;
+}
+
+#logo img {
+    float:left;
+    width:198px;
+    height:120px;
+}
+
+#title {
+    text-align:center;
+    text-decoration:none;
+    color:white;
+    font-size:26px;
+    font-style:bold;
+    font-family:'Libre Baskerville', serif;
+    padding-top:60px;
+    padding-right:200px;
+}
+
+#title a {
+    text-align:center;
+    text-decoration:none;
+    color:white;
+    font-size:26px;
+    font-style:bold;
+    font-family:'Libre Baskerville', serif;
+    padding-top:60px;
+}
+
+.para {
+    float:left;
+    color:black;
+    text-align:center;
+    margin-top:80px;
+    margin-left:300px;
+    margin-right:300px;
+    text-decoration:none;
+    font-size:30px;
+    font-family:'Libre Baskerville', serif;
+}
+
+.table, td {
+    float:center;
+    padding:17px;
+    padding-top:30px;
+    text-align:center;
+    width:10%;
+    font-size:20px;
+    font-family:'Libre Baskerville', serif;
+}
+
+td img {
+    width:100px;
+    height:100px;
+}
+
+#pumpkinspice {
+    float:right;
+    text-align:left;
+    text-decoration:none;
+    font-size:18px;
+    font-family:'Libre Baskerville', serif;
+}
+
+#pumpkinimg {
+    float:left;
+    width:400px;
+    height:400px;
+    margin-top:20px;
+    margin-left:50px;
+}
+
+.button {
+    background-color:black;
+    border:none;
+    color:white;
+    padding:15px 32px;
+    margin-left:10px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-family:'Libre Baskerville', serif;
+    font-size:16px;
+}
+
+.button a {
+    background-color:black;
+    border:none;
+    color:white;
+    padding:10px 32px;
+    margin-left:10px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-family:'Libre Baskerville', serif;
+    font-size:20px;
+}
+
+#num {
+    background-color:white;
+    border:1px solid black;
+    color:border;
+    padding:24px 54px;
+    margin-left:10px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-family:'Libre Baskerville', serif;
+    font-size:20px;
+}
